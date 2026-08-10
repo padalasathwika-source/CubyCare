@@ -1,0 +1,169 @@
+$ageRange Activities
+$ageRange Diet
+$ageRange Milestones
+$ageRange Sleep Info
+$count Vaccine(s)
+$medicineName Effects
+${child.name}'s Dashboard
+${child.name}'s Growth
+${child.name}'s Milestones
+${child.name}'s Vaccinations
+(Estimated)
++ Sign in to another parent account
+Active
+Add
+Add Child
+Add Food Diary Entry
+Add Medicine
+Administered on: ${formatter.format(Date(vaccine.administeredDateMillis!!))}
+Age $ageRange
+All
+Allergies
+Are you sure you want to delete ${childToDelete?.name}'s profile?
+Are you sure you want to remove ${targetAcc.displayName} (${targetAcc.email}) from saved accounts on this device?
+Are you sure you want to sign out of CubyCare?
+BMI: ${String.format(
+Baby's Name
+Birth Length
+Birth Weight
+Birth: ${String.format(
+Blood Group
+Blue = Real Data, Red = Estimated
+Blue Blocks = Real Data, Orange Blocks = Estimated
+Boy / Girl / Other
+Cancel
+Change Photo
+Child Name
+Child's Response:
+Close
+Complete
+Continue as Guest
+Cuby Alert System
+Cuby Health
+Cuby Health: $ageRange
+Cuby Joy
+Cuby Naps
+Cuby Parenting
+Cuby Smile
+Cuby Vitals
+CubyCare Version
+Curable: ${if (allergy.isCurable) 
+Curable: ${if (disorder.isCurable) 
+Current Head Circumference (Today)
+Current Length / Height (Today)
+Current Medical Conditions
+Current Weight (Today)
+DISCLAIMER: This app does not provide complex medical prescriptions. Always consult your doctor before administering any medication.
+Date of Birth (DD/MM/YYYY)
+Delete
+Delete Profile
+Dose Number: ${vaccine.doseNumber}
+Dose Prescribed (e.g., 5ml, 1 tablet)
+Due Date: ${formatter.format(Date(vaccine.nextDueDateMillis))}
+Duration (e.g., 5 days)
+Duration: ${allergy.duration}
+Duration: ${disorder.duration}
+Edit ${child.name}'s Profile
+Enter Medicine Details
+Everything you need to know about tracking your baby's health.
+FAQ & Pediatric User Guide
+Find Dentist
+Find Nearby Specialists
+Find Nearby Vaccination Centers
+Find Pediatrician
+Food Allergies
+Food Item
+Frequency (e.g., Twice a day)
+Frequently Asked Questions
+Gained: ${String.format(
+Gender
+Genetic Issues / Disorders
+Get Started
+Government clinics generally operate:
+Growth
+Growth Alerts
+Growth Composition
+Growth Trend vs Age (Months)
+HIPAA & Data Privacy Protected
+Head Circ. (cm)
+Head Circ: ${record.headCircumferenceCm} cm
+Head Circumference at Birth
+Height/Length (cm)
+Height: ${record.lengthCm} cm
+Home
+Home Remedies & Info
+How $vaccineName Works
+How it affects the body
+IAP Optional
+Leave blank if none
+Log Manually (Select Date)
+Log this Vaccine
+Main Symptoms
+Medication Information
+Medicine Name
+Medicine Tracker
+Missing Real Logs:
+Mon - Sat: 10:00 AM - 8:00 PM
+Mon - Sat: 9:00 AM - 4:00 PM\n(Closed on Public Holidays)
+Month $m
+Next
+No
+No children added yet
+No growth logs yet. Click + to add one.
+Not enough data to draw a chart.
+Nutrition & Diet
+Pediatric Health & Growth Companion
+Picky Eating Notes
+Precautions & Avoidance
+Premature Duration
+Previous
+Private pediatric clinics operate:
+Processing...
+Quantity
+Reasons / Causes:
+Recommended Age: ${vaccine.recommendedAge}
+Regional Preference (e.g. South Indian)
+Remove
+Remove Parent Account
+Save
+Save Changes
+Save Medicine
+Search on Map
+Searching your local area for top-rated specialists.
+Select
+Sign Out
+Smart Scan Card (OCR)
+Suggested Specialist
+Tap here to create your baby's profile
+The Journey to Immunity
+Time
+Time for Reminder
+Timings may vary. Click below to search your local area on Google Maps for accurate places and timings.
+Timings:\n${allergy.hospitalTimings}
+Timings:\n${disorder.hospitalTimings}
+UIP/Mandatory
+Upcoming Calendar
+Upload Certificate
+Vaccination Centers
+Vaccines
+Vegetarian
+View Attached Certificate
+Was $name born prematurely?
+Weight (kg)
+Weight: ${String.format(
+Why should it be taken? (How it works)
+Yes
+e.g. 15/04/2023
+e.g. 2 months early
+e.g. 3.2 kg
+e.g. 35 cm
+e.g. 42 cm
+e.g. 50 cm
+e.g. 6.5 kg
+e.g. 65 cm
+e.g. O+, A-
+e.g., 2 months early
+e.g., Emma or Liam
+v1.2.0 (Build 48)
+•
+• $alert

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "830009836557",
+    "project_id": "cubycare-2042b",
+    "storage_bucket": "cubycare-2042b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830009836557:android:465ca0fe3c88f0eedf4144",
+        "android_client_info": {
+          "package_name": "co.csedge.cubycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830009836557-f270l5h3kf4qgb45ncsfrajgkq495gf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.csedge.cubycare",
+            "certificate_hash": "e824e8f40e014c0c3ee80e16007ee1786c129e65"
+          }
+        },
+        {
+          "client_id": "830009836557-d01trpcggusui5lf3rhl9mmu1fmj4svo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUXbYOJbFTi-LS51D0vgQwrBtFoj4Eeyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830009836557-d01trpcggusui5lf3rhl9mmu1fmj4svo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
